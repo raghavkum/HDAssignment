@@ -1,0 +1,9 @@
+#Ant properties
+#Sun Nov 06 14:13:40 CET 2016
+builddate=20161106 1412
+description=advancedcustomerreview
+name=advancedcustomerreview
+releasedate=20150915 1445
+vendor=hybris
+version=5.7.0.18
+version.api=5.7.0
